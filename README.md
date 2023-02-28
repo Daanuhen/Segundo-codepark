@@ -1,3 +1,4 @@
+![Ilustracao 03](https://user-images.githubusercontent.com/124507005/222002981-a8925401-ea74-4122-ac15-f183abee8f87.png)
 <h4>
 <table>
 <td>1- Padrão numérico 4/2 encontrado nas linhas na horizontal é quebrado na quinta linha da vertical.</td>
